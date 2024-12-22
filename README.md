@@ -8,27 +8,26 @@ I'm a passionate **Web Developer** with a keen interest in creating dynamic and 
 ## 🔧 Technologies & Tools
 
 ### Frontend
-![React](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)  
+![React](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)  
-![HTML](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)  
+![HTML](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38B2AC)
 
 ### Version Control
-![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)  
+![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 
 ### Design
-![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)  
+![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-informational?style=flat&logo=canva&logoColor=white&color=00C4CC)
 
 ### Other Languages
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)   
-![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)  
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 
 ## 🌟 Featured Projects
-<!-- You can add your featured projects here -->
 - Project 1: [NSS Website](https://nssvit.in)
 - Project 2: [Expense Tracker using React](https://myexpensetracker12.netlify.app/)
 
@@ -45,7 +44,6 @@ I'm a passionate **Web Developer** with a keen interest in creating dynamic and 
 - 🌐 Building responsive and user-friendly web applications
 - 💻 Enhancing my skills in frontend development by making more hands-on projects.
 
----
 ---
 
 ✨ Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about technology. ✨
