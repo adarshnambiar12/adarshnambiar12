@@ -30,12 +30,16 @@ I'm a passionate **Web Developer** with a keen interest in creating dynamic and 
 ## 🌟 Featured Projects
 - Project 1: [NSS Website](https://nssvit.in)
 - Project 2: [Expense Tracker using React](https://myexpensetracker12.netlify.app/)
+- Project 3: [VotePlay - Voting Simulator](https://voteplay.tech)
+- Project 4: [My Portfolio](https://adarshnambiar.me)
 
 ## 📈 GitHub Stats
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshnambiar12&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshnambiar12/)
+
+[![Website](https://img.shields.io/badge/Website-Visit-informational?style=flat&logo=google-chrome&logoColor=white&color=0A66C2)](https://adarshnambiar.me)
 
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:adarshnambiar4912@gmail.com)
 
