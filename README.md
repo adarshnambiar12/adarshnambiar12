@@ -13,6 +13,12 @@ I'm a passionate **Web Developer** with a keen interest in creating dynamic and 
 ![HTML](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38B2AC)
+![Next.js](https://img.shields.io/badge/NextJS-informational?style=flat&logo=next.js&logoColor=white&color=000000)
+
+### Backend
+![Node.js](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=339933)
+![Express](https://img.shields.io/badge/ExpressJS-informational?style=flat&logo=express&logoColor=white&color=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
