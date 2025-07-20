@@ -63,7 +63,7 @@ I’m a **Full‑Stack Web Developer** who loves building fast, user‑friendly 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnambiar12&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=adarshnambiar12&color=blueviolet&style=for-the-badge)
+![Profile Views](<img src="https://komarev.com/ghpvc/?username=adarshnambiar12&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />)
 
 </div>
 
