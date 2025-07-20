@@ -43,15 +43,11 @@ I’m a **Full‑Stack Web Developer** who loves building fast, user‑friendly 
 </div>
 
 ## 🌟 Featured Projects
+- Project 1: [NSS Website](https://nssvit.in)
+- Project 2: [Expense Tracker using React](https://myexpensetracker12.netlify.app/)
+- Project 3: [VotePlay - Voting Simulator](https://voteplay.tech)
+- Project 4: [My Portfolio](https://adarshnambiar.me)
 
-<div align="center">
-
-[![NSS Website](https://img.shields.io/badge/NSS_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nssvit.in)
-[![Expense Tracker](https://img.shields.io/badge/Expense_Tracker-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://myexpensetracker12.netlify.app/)
-[![VotePlay](https://img.shields.io/badge/VotePlay-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://voteplay.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://adarshnambiar.me)
-
-</div>
 
 ## 📈 GitHub Stats
 
@@ -63,7 +59,7 @@ I’m a **Full‑Stack Web Developer** who loves building fast, user‑friendly 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnambiar12&layout=compact&theme=radical)
 
-![Profile Views](<img src="https://komarev.com/ghpvc/?username=adarshnambiar12&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />)
+![Profile Views](https://komarev.com/ghpvc/?username=adarshnambiar12&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
