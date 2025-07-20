@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Adarsh Nambiar
 
-![Profile Banner](https://raw.githubusercontent.com/adarshnambiar12/adarshnambiar12/refs/heads/main/readme_image.png)
+<img width="2400" height="800" alt="GitHub Readme" src="https://github.com/user-attachments/assets/ab2582d7-dc89-40c5-9ffc-297023497e7f" />
 
 ## About Me
 I'm a passionate **Web Developer** with a keen interest in creating dynamic and responsive web applications with skills in ReactJS and TailwindCSS. I love exploring new technologies and continuously striving to improve my skills. I'm very attention to detail and dedicated to delivering high-quality work.
